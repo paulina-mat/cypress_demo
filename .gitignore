@@ -1,0 +1,22 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+.idea/*
+package-lock.json
+
+# Dependency directories
+node_modules
+
+# IDE and mac files
+.vscode
+.DS_Store
+
+
+# Cypress Videos
+cypress/videos/*
+*.mp4
+
+# merge error logs
+*.rej
